@@ -1,0 +1,32 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.usercard {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 15px;
+    color: black;
+}
+
+.container {
+    border: 1px solid black;
+
+    width: 800px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: black;
+}
+
+.div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
